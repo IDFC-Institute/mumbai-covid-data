@@ -24,5 +24,5 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url:https://docs.google.com/spreadsheets/d/e/2PACX-1vQjJsxljCc4p6R9bJXd0vCaYFeLNV_Mcb7ZSRVEw6DAwoSFYwffAvk5YlQMg_dCnZzVgFvvte8AzW6E/pub?gid=0&single=true&output=csv
+          http_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQjJsxljCc4p6R9bJXd0vCaYFeLNV_Mcb7ZSRVEw6DAwoSFYwffAvk5YlQMg_dCnZzVgFvvte8AzW6E/pub?gid=0&single=true&output=csv
           downloaded_filename: mumbai_c19_age_wise_mortality.csv
