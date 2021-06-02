@@ -1,4 +1,4 @@
-Date,Total_positive_cases,Total_tests,Num_of_RTPCR_tests_1000s,Num_of_antigen_tests_1000s ,Total_tests_1000s
+Date,Total_positive_tests,Total_tests,Num_of_RTPCR_tests_1000s,Num_of_antigen_tests_1000s ,Total_tests_1000s
 2020-04-30,409,4310,,,
 2020-05-01,538,4087,,,
 2020-05-02,653,3830,,,
