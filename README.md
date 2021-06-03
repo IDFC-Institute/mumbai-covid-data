@@ -23,3 +23,5 @@ This dataset contains
 * the total number of daily tests (rounded up to thousands, with minor mismatches when compared to sum of RT-PCR and Antigen test numbers, possibly due to the rounding up)
 * the total number of daily tests
 * the total number of daily *positive* tests
+
+Note: All data provided as-is from BMC's COVID-19 response War Room Dashboard and may contain errors or be incomplete. 
