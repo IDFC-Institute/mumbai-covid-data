@@ -7,6 +7,8 @@ As the official portal allowed access to only the most recent report, we have ar
 
 [Click here](https://www.idfcinstitute.org/projects/state-capacity/covid-19-city-databases) to go to the project on IDFC Institute's website where you can find detailed posts about the datasets and relevant analyses.
 
+Note: All data provided as-is from BMC's COVID-19 response War Room Dashboard and may contain errors or be incomplete. 
+
 ### This list contains datasets extracted and published so far and will be updated as new datasets are added.
 
 
@@ -23,5 +25,3 @@ This dataset contains
 * the total number of daily tests (rounded up to thousands, with minor mismatches when compared to sum of RT-PCR and Antigen test numbers, possibly due to the rounding up)
 * the total number of daily tests
 * the total number of daily *positive* tests
-
-Note: All data provided as-is from BMC's COVID-19 response War Room Dashboard and may contain errors or be incomplete. 
