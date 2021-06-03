@@ -10,11 +10,11 @@ As the official portal allowed access to only the most recent report, we have ar
 ### This list contains datasets extracted and published so far and will be updated as new datasets are added.
 
 
-## Age-wise mortality : [View/download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=mumbai_c19_age_wise_mortality.csv&sort=Date%2Casc)
+## Age-wise mortality : [View/download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_age_wise_mortality.csv&sort=Date%2Casc&stickyColumnName=Date)
 
 The 100+ age group, available in reports from June to September 2020 was reported as 90+ from September 2020. We have standardised it using 90+ throughout.
 
-## Tests by type : [View/download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=mumbai_c19_tests_by_type.csv&sort=Date%2Casc)
+## Tests by type : [View/download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_tests_by_type.csv&sort=Date%2Casc&stickyColumnName=Date)
 
 This dataset contains 
 
