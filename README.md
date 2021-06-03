@@ -9,6 +9,8 @@ As the official portal allowed access to only the most recent report, we have ar
 
 Note: All data provided as-is from BMC's COVID-19 response War Room Dashboard and may contain errors or be incomplete. 
 
+For queries, please reach out to harsh.pachisia@idfcinstitute.org or sridhar.ganapathy@idfcinstitute.org. 
+
 ### This list contains datasets extracted and published so far and will be updated as new datasets are added.
 
 
