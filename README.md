@@ -30,3 +30,12 @@ This dataset contains
 * the total number of daily tests (rounded up to thousands, with minor mismatches when compared to sum of RT-PCR and Antigen test numbers, possibly due to the rounding up)
 * the total number of daily tests
 * the total number of daily *positive* tests
+
+## Containment by ward : [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_containment_by_ward.csv&sort=Date%2Casc&stickyColumnName=Date)
+
+<!-- [Here's a blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-containment-data-for-mumbai/) that looks at the containment zones data in detail.
+-->
+This dataset contains 
+* number of containment zones in slums and chawls in each ward (available from June 2020)
+* number of sealed buildings (micro-containment zones) in each ward (available from June 2020)
+* number of sealed floors in each ward (available from **March 2021**)
