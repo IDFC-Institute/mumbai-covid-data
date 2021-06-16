@@ -32,9 +32,15 @@ jobs:
         with:
           http_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQjJsxljCc4p6R9bJXd0vCaYFeLNV_Mcb7ZSRVEw6DAwoSFYwffAvk5YlQMg_dCnZzVgFvvte8AzW6E/pub?gid=1078344349&single=true&output=csv
           downloaded_filename: ./data/mumbai_c19_tests_by_type.csv
-      # Fetch containment_by_ward
+      # Fetch cases_and_containment_by_ward
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
           http_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQjJsxljCc4p6R9bJXd0vCaYFeLNV_Mcb7ZSRVEw6DAwoSFYwffAvk5YlQMg_dCnZzVgFvvte8AzW6E/pub?gid=1544175519&single=true&output=csv
           downloaded_filename: ./data/mumbai_c19_containment_by_ward.csv
+      # Fetch cases_by_age_and_gender 
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQjJsxljCc4p6R9bJXd0vCaYFeLNV_Mcb7ZSRVEw6DAwoSFYwffAvk5YlQMg_dCnZzVgFvvte8AzW6E/pub?gid=198151367&single=true&output=csv
+          downloaded_filename: ./data/mumbai_c19_cases_by_age_and_gender.csv

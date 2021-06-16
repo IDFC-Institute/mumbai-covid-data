@@ -28,14 +28,24 @@ This dataset contains
 * the number of daily RT-PCR tests (rounded up to thousands, available from May 28, 2020) 
 * the number of daily antigen tests (rounded up to thousands, available from July 7, 2020) 
 * the total number of daily tests (rounded up to thousands, with minor mismatches when compared to sum of RT-PCR and Antigen test numbers, possibly due to the rounding up)
-* the total number of daily tests
-* the total number of daily *positive* tests
+* the total number of daily tests (available from June 2020)
+* the total number of daily *positive* tests (available from June 2020)
 
-## Containment by ward : [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_containment_by_ward.csv&sort=Date%2Casc&stickyColumnName=Date)
+## Cases and containment by ward : [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_containment_by_ward.csv&sort=Date%2Casc&stickyColumnName=Date)
 
-<!-- [Here's a blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-containment-data-for-mumbai/) that looks at the containment zones data in detail.
+<!-- [Here's a blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-containment-strategies-in-mumbai/) that looks at the containment strategies data in detail.
 -->
 This dataset contains 
+* number of cases in each ward (available from June 2020)
 * number of containment zones in slums and chawls in each ward (available from June 2020)
 * number of sealed buildings (micro-containment zones) in each ward (available from June 2020)
 * number of sealed floors in each ward (available from **March 2021**)
+
+
+## Gender and age profile of cases : [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_cases_by_age_and_gender.csv&sort=Date%2Casc&stickyColumnName=Date)
+
+<!-- [Here's a blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-gender-age-profile-of-cases-mumbai/) that looks at the gender and age profile of COVID-19 cases in detail.
+-->
+This dataset contains 
+* number of cases for each age group (available from June 2020)
+* gender split of cases for each age group (percentage, available from June 2020) 
