@@ -33,8 +33,8 @@ This dataset contains
 
 ## Cases and containment by ward : [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_containment_by_ward.csv&sort=Date%2Casc&stickyColumnName=Date)
 
-<!-- [Here's a blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-containment-strategies-in-mumbai/) that looks at the containment strategies data in detail.
--->
+[A blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-containment-strategies-in-mumbai/) that looks at the containment strategies data in detail.
+
 This dataset contains 
 * number of cases in each ward (available from June 2020)
 * number of containment zones in slums and chawls in each ward (available from June 2020)
