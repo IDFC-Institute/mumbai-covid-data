@@ -33,8 +33,8 @@ This dataset contains
 
 ## Cases and containment by ward : [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_containment_by_ward.csv&sort=Date%2Casc&stickyColumnName=Date)
 
-<!-- [A blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-containment-strategies-in-mumbai/) that looks at the containment strategies data in detail.
--->
+[A blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-containment-strategies-in-mumbai/) that looks at the containment strategies data in detail.
+
 This dataset contains 
 * number of cases in each ward (available from June 2020)
 * number of containment zones in slums and chawls in each ward (available from June 2020)
@@ -44,8 +44,19 @@ This dataset contains
 
 ## Gender and age profile of cases : [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_cases_by_age_and_gender.csv&sort=Date%2Casc&stickyColumnName=Date)
 
-<!-- [Here's a blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-gender-age-profile-of-cases-mumbai/) that looks at the gender and age profile of COVID-19 cases in detail.
--->
+[A blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-gender-age-profile-of-cases-mumbai/) that looks at the gender and age profile of COVID-19 cases in detail.
+
 This dataset contains 
 * number of cases for each age group (available from June 2020)
 * gender split of cases for each age group (percentage, available from June 2020) 
+
+## Hospital capacity and occupancy by bed type: [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_hospital_occupancy_by_bed_type.csv&sort=Date%2Casc&stickyColumnName=Date)
+
+<!--[A blog](https://www.idfcinstitute.org/blog/2021/july/covid-19-bed-management-in-mumbai/) that looks hospital bed capacity and occupancy  in detail.
+-->
+
+This dataset contains 
+* Total bed capacity and occupancy - sum of DCH, DCHC and CCC2 bed counts (available from June 2020)
+* DCH + DCHC bed capacity and occupancy (available from June 2020)
+* CCC2 bed capacity and occupancy (available from June 2020)
+* ICU, O2 and ventilator bed capacity and occupancy - ICU Beds are a subset of O2 Beds and Ventilators are a subset of ICU Beds as per note on April 18, 2021 (available from June 2020)

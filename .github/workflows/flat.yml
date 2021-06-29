@@ -44,3 +44,9 @@ jobs:
         with:
           http_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQjJsxljCc4p6R9bJXd0vCaYFeLNV_Mcb7ZSRVEw6DAwoSFYwffAvk5YlQMg_dCnZzVgFvvte8AzW6E/pub?gid=198151367&single=true&output=csv
           downloaded_filename: ./data/mumbai_c19_cases_by_age_and_gender.csv
+      # Fetch hospital_occupancy_by_bed_type
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQjJsxljCc4p6R9bJXd0vCaYFeLNV_Mcb7ZSRVEw6DAwoSFYwffAvk5YlQMg_dCnZzVgFvvte8AzW6E/pub?gid=1872609675&single=true&output=csv
+          downloaded_filename: ./data/mumbai_c19_hospital_occupancy_by_bed_type.csv
