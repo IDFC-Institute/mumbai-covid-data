@@ -1,8 +1,4 @@
 Date,Total_Bed_Capacity,Total_Beds_Occupancy,DCH & DCHC_ Bed_Capacity,DCH & DCHC_ Beds_Occupancy,CCC2_Active_Bed_Capacity,CCC2_Active_Bed_Occupancy,ICU_Bed_Capacity,ICU_Beds_Occupancy,O2_Bed_Capacity,O2_Beds_Occupancy,Ventilator_Bed_Capacity,Ventilator_Beds_Occupancy
-2020-06-03,16197,12908,9092,8570,7105,4338,1097,1080,4650,3424,442,378
-2020-06-04,,,,,,,,,,,,
-2020-06-05,,,,,,,,,,,,
-2020-06-06,,,,,,,,,,,,
 2020-06-07,17936,13739,10531,9227,7405,4512,1157,1141,5114,3760,476,446
 2020-06-08,18110,13759,10702,9278,7408,4481,1164,1154,5946,4532,493,471
 2020-06-09,17835,13390,10314,9065,7521,4325,1158,1142,5181,3948,503,481
