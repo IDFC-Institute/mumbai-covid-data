@@ -44,7 +44,7 @@ This dataset contains
 
 ## Gender and age profile of cases : [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_cases_by_age_and_gender.csv&sort=Date%2Casc&stickyColumnName=Date)
 
-[A blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-gender-age-profile-of-cases-mumbai/) that looks at the gender and age profile of COVID-19 cases in detail.
+[A blog](https://www.idfcinstitute.org/blog/2021/june/covid-19-impact-variations-by-age-and-gender/) that looks at the gender and age profile of COVID-19 cases in detail.
 
 This dataset contains 
 * number of cases for each age group (available from June 2020)
