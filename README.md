@@ -60,3 +60,9 @@ This dataset contains
 * DCH + DCHC bed capacity and occupancy (available from June 2020)
 * CCC2 bed capacity and occupancy (available from June 2020)
 * ICU, O2 and ventilator bed capacity and occupancy - ICU Beds are a subset of O2 Beds and Ventilators are a subset of ICU Beds as per note on April 18, 2021 (available from June 2020)
+
+## Case severity and contact tracing: [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_cases_severity_and_contact_tracing.csv&sort=Date%2Casc&stickyColumnName=Date)
+
+This dataset contains 
+* Total number of cases - symptomatic, asymptomatic and critical (available from June 2020)
+* Number of low and high risk contacts traced each day (available from June 2020)
