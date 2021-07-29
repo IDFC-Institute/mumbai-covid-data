@@ -52,8 +52,7 @@ This dataset contains
 
 ## Hospital capacity and occupancy by bed type: [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_hospital_occupancy_by_bed_type.csv&sort=Date%2Casc&stickyColumnName=Date)
 
-<!--[A blog](https://www.idfcinstitute.org/blog/2021/july/covid-19-bed-management-in-mumbai/) that looks hospital bed capacity and occupancy  in detail.
--->
+[A blog](https://www.idfcinstitute.org/blog/2021/july/covid-19-bed-management-in-mumbai/) that looks hospital bed capacity and occupancy  in detail.
 
 This dataset contains 
 * Total bed capacity and occupancy - sum of DCH, DCHC and CCC2 bed counts (available from June 2020)
