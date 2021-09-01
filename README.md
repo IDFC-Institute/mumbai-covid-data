@@ -65,3 +65,11 @@ This dataset contains
 This dataset contains 
 * Total number of cases - symptomatic, asymptomatic and critical (available from June 2020)
 * Number of low and high risk contacts traced each day (available from June 2020)
+
+## Private hospital capacity and occupancy by bed type: [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_priv_hospital_occupancy_by_bed_type.csv&sort=Date%2Casc&stickyColumnName=Date)
+
+[A blog](https://www.idfcinstitute.org/blog/2021/august/a-shortage-of-private-covid-beds-in-mumbai/) that analyses the role of private hospitals in the COVID-19 response.
+
+This dataset contains 
+* Private hospital overall bed capacity and occupancy (available from July 2020)
+* Normal, ICU, O2 and ventilator bed capacity and occupancy (available from July 2020)
