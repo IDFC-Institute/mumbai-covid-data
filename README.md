@@ -52,7 +52,7 @@ This dataset contains
 
 ## Hospital capacity and occupancy by bed type: [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_hospital_occupancy_by_bed_type.csv&sort=Date%2Casc&stickyColumnName=Date)
 
-[A blog](https://www.idfcinstitute.org/blog/2021/july/covid-19-bed-management-in-mumbai/) that looks hospital bed capacity and occupancy  in detail.
+[A blog](https://www.idfcinstitute.org/blog/2021/july/covid-19-bed-management-in-mumbai/) that analyses hospital bed capacity for COVID-19 patients and bed occupancy trends in Mumbai.
 
 This dataset contains 
 * Total bed capacity and occupancy - sum of DCH, DCHC and CCC2 bed counts (available from June 2020)
@@ -61,6 +61,8 @@ This dataset contains
 * ICU, O2 and ventilator bed capacity and occupancy - ICU Beds are a subset of O2 Beds and Ventilators are a subset of ICU Beds as per note on April 18, 2021 (available from June 2020)
 
 ## Case severity and contact tracing: [View and download](https://flatgithub.com/IDFC-Institute/mumbai-covid-data?filename=data%2Fmumbai_c19_cases_severity_and_contact_tracing.csv&sort=Date%2Casc&stickyColumnName=Date)
+
+[A blog](https://www.idfcinstitute.org/blog/2021/august/vaccine-uptake-equity-and-covid-19/)that analyses COVID-19 case severity as vaccination progresses in Mumbai.
 
 This dataset contains 
 * Total number of cases - symptomatic, asymptomatic and critical (available from June 2020)
