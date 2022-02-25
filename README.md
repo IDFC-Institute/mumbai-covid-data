@@ -5,7 +5,7 @@ BMC publishes daily updates in the form of 40 pages of tables, graphs and maps d
 
 As the official portal allowed access to only the most recent report, we have archived past reports from June 13, 2020 and extracted data to create time-series datasets of cases, containment, health infrastructure, etc.
 
-[Click here](https://www.idfcinstitute.org/projects/state-capacity/covid-19-city-databases) to go to the project on IDFC Institute's website where you can find detailed posts about the datasets and relevant analyses. For queries, please reach out to harsh.pachisia@idfcinstitute.org or sridhar.ganapathy@idfcinstitute.org. 
+[Click here](https://www.idfcinstitute.org/projects/state-capacity/covid-19-city-databases) to go to the project on IDFC Institute's website where you can find detailed posts about the datasets and relevant analyses. For queries, please reach out to harsh.pachisia@artha.global or sridhar.ganapathy@artha.global
 
 **Note: All data provided as-is from BMC's COVID-19 response War Room Dashboard and may contain errors or be incomplete.**
 
